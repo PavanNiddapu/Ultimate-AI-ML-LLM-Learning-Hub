@@ -108,21 +108,32 @@ We offer structured learning paths for different experience levels and interests
    cd Ultimate-AI-ML-LLM-Learning-Hub
    ```
 
-2. **Set Up Environment** (Recommended: Use virtual environment)
+2. **Quick Setup (Recommended)**
    ```bash
+   # Run the interactive setup wizard
+   python tools/setup-wizard/setup_wizard.py
+   ```
+
+3. **Manual Setup** (Alternative)
+   ```bash
+   # Set up virtual environment
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+   
+   # Install dependencies
+   pip install -r requirements.txt
    ```
 
-3. **Install Dependencies**
+4. **Verify Installation**
    ```bash
-   pip install -r requirements.txt  # Will be added as content grows
-   ```
-
-4. **Launch Jupyter Notebook**
-   ```bash
+   # Test your setup
+   python test_setup.py
+   
+   # Launch Jupyter Notebook
    jupyter notebook
    ```
+
+📖 **Detailed Setup Guide**: See [SETUP.md](SETUP.md) for comprehensive installation instructions and troubleshooting.
 
 ### First Steps
 

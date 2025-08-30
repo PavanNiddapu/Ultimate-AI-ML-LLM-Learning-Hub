@@ -1,0 +1,50 @@
+# Ultimate AI/ML/LLM Learning Hub - Core Dependencies
+# This file contains the essential packages needed for most content in this repository
+
+# Core Scientific Computing
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Interactive Computing
+jupyter>=1.0.0
+ipython>=7.0.0
+ipykernel>=6.0.0
+
+# Visualization
+plotly>=5.0.0
+
+# Utilities
+tqdm>=4.62.0
+requests>=2.25.0
+
+# Optional Deep Learning Frameworks
+# Uncomment the frameworks you want to use:
+
+# PyTorch (recommended for research and learning)
+# torch>=1.10.0
+# torchvision>=0.11.0
+# torchaudio>=0.10.0
+
+# TensorFlow (recommended for production)
+# tensorflow>=2.7.0
+
+# Additional NLP Tools (uncomment as needed)
+# transformers>=4.15.0
+# datasets>=1.17.0
+# tokenizers>=0.11.0
+
+# Computer Vision Tools (uncomment as needed)
+# opencv-python>=4.5.0
+# pillow>=8.3.0
+
+# Development Tools (uncomment for contributors)
+# pytest>=6.2.0
+# black>=21.0.0
+# flake8>=4.0.0
+# mypy>=0.910
