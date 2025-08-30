@@ -91,6 +91,18 @@ We offer structured learning paths for different experience levels and interests
 - **👁️ Computer Vision Track**: Specialize in image and video processing
 - **🤖 Reinforcement Learning Path**: Master decision-making algorithms
 
+## 🚀 Modern AI/ML Topics
+
+Explore cutting-edge topics and industry best practices for modern AI/ML development:
+
+- **[🔧 MLOps and Model Deployment](docs/modern-ai-ml/mlops.md)**: Learn to productionize ML systems with CI/CD, monitoring, and observability
+- **[⚖️ AI Ethics and Responsible AI](docs/modern-ai-ml/ai-ethics.md)**: Build fair, accountable, and privacy-preserving AI systems
+- **[👁️ Computer Vision (Advanced)](docs/modern-ai-ml/computer-vision-advanced.md)**: Detection, segmentation, tracking, and efficiency techniques
+- **[🎨 Generative AI Beyond LLMs](docs/modern-ai-ml/generative-ai-beyond-llms.md)**: Image, audio, and video generation with diffusion models and VAEs
+- **[🛡️ AI Safety and Alignment](docs/modern-ai-ml/ai-safety-alignment.md)**: Risk assessment, red teaming, and safety evaluations
+
+**[📖 Modern AI/ML Module Overview](docs/modern-ai-ml/)**: Complete guide with hands-on paths and curated resources
+
 ## 💻 Getting Started
 
 ### Prerequisites
