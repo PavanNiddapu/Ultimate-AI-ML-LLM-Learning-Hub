@@ -1,0 +1,11 @@
+# Core dependencies for linear regression example
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+
+# Optional: for enhanced visualizations
+seaborn>=0.11.0
+
+# For Jupyter notebook (optional)
+jupyter>=1.0.0
+ipython>=7.0.0
